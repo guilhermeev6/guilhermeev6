@@ -1,16 +1,13 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=header"/>
 
-<!--
-**guilhermeev6/guilhermeev6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE428E&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Guilherme)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=guilhermeev6&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=guilhermeev6&show_icons=true&theme=radical&layout=compact" />
+ </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=footer"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<!-- https://github.com/rafaelalexandrino/rafaelalexandrino -->
