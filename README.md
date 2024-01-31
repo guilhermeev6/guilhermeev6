@@ -1,6 +1,6 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE428E&size=35&left=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Guilherme;I+am+a+Web+Developer.)](https://git.io/typing-svg)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="500px" max-width="500px" width="500px" align="right">
 
 <p align="left">
  Recentemente me formei como técnico de Desenvolvimento de Sistemas na ETEC Professor Basilides de Godoy, no qual o mesmo foi integrado ao ensino médio.
@@ -20,6 +20,7 @@
 
 <br>
 
+
 ### Estudando atualmente:
 <p>
   <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -32,4 +33,5 @@
 ### Redes sociais
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme--evangelista/)](https://www.linkedin.com/in/guilherme--evangelista/)
   [![Gmail Badge](https://img.shields.io/badge/-guilhermeevts@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeevts@gmail.com)](mailto:guilhermeevts@gmail.com)
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=footer"/>
