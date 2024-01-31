@@ -1,6 +1,6 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FE428E&size=35&left=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Guilherme;I+am+a+Web+Developer.)](https://git.io/typing-svg)
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="500px" max-width="500px" width="500px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
  Recentemente me formei como técnico de Desenvolvimento de Sistemas na ETEC Professor Basilides de Godoy, no qual o mesmo foi integrado ao ensino médio.
