@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
- Recentemente me formei como técnico de Desenvolvimento de Sistemas na ETEC Professor Basilides de Godoy, no qual o mesmo foi integrado ao ensino médio.
+ Recentemente me formei como técnico em Desenvolvimento de Sistemas na ETEC Professor Basilides de Godoy, no qual o mesmo foi integrado ao ensino médio.
 </p>
 
 ### Principais tecnologias:
