@@ -29,9 +29,5 @@
 </p>
 
 <br>
-
-### Redes sociais
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme--evangelista/)](https://www.linkedin.com/in/guilherme--evangelista/)
-  [![Gmail Badge](https://img.shields.io/badge/-guilhermeevts@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guilhermeevts@gmail.com)](mailto:guilhermeevts@gmail.com)
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FE428E&height=120&section=footer"/>
